@@ -2,7 +2,7 @@
 <h3 align="center">Junior Quality Control (QC) Engineer | Manual & Automation Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+ISTQB+Prep; Automation+%26+Manual+Testing+Specialist;1+Year+of+Hands-on+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+ISTQB+Prep;Automation+%26+Manual+Testing+Specialist;1+Year+of+Hands-on+Experience" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,10 +47,10 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/dina-salah-salam/)" target="_blank">
+<a href="https://www.linkedin.com/in/dina-salah-salam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="dinasalahwork@gmail.com" target="_blank">
+<a href="mailto:dinasalahwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
