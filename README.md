@@ -33,19 +33,7 @@
 - 📚learning cypress
 - 🎯 **ISTQB FL Certification**
 
----
-<p align="center">
-  <img
-    src="https://github-readme-stats-dina.vercel.app/api?username=Dina-Salah-Salam&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;hide=issues"
-    alt="Dina’s GitHub Stats (including private)"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-dina.vercel.app/api/top-langs/?username=Dina-Salah-Salam&amp;layout=compact&amp;theme=tokyonight"
-    alt="Top Languages (public + private)"
-    width="48%"
-  />
-</p>
+
 
 ---
 
