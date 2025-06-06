@@ -35,12 +35,17 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dina-Salah-Salam&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dina-Salah-Salam&layout=compact&theme=tokyonight" width="48%" />
-
+  <img
+    src="https://github-readme-stats-dina.vercel.app/api?username=Dina-Salah-Salam&show_icons=true&theme=tokyonight&count_private=true&hide=issues"
+    alt="Dina’s GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats-dina.vercel.app/api/top-langs/?username=Dina-Salah-Salam&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    width="48%"
+  />
 </p>
 
 ---
