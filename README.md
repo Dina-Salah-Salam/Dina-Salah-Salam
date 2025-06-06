@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello! I'm Dina Salah
 
-<!--
-**Dina-Salah-Salam/Dina-Salah-Salam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Quality Control (QC) Engineer** with 1 year of hands-on experience in manual and automation testing using **Python + pytest**.
 
-Here are some ideas to get you started:
+🌍 Based in Assiut, Egypt  
+📚 Currently preparing for **ISTQB Foundation Level Certification**  
+🚀 Focused on building a strong career in software quality assurance and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- 💻 **Languages**: Python, SQL
+- 🧪 **Testing**: Manual Testing, Automation with Pytest, API Testing
+- 🛠️ **Tools**: Postman, Jira, Xray, Git
+- 📁 **Version Control**: Git & GitHub
+
+---
+
+### 🌱 Currently Learning
+- Advanced test automation techniques  
+- Test case design with real-world projects  
+- Preparing for ISTQB FL exam
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- Email: dina@example.com (replace with real)
+
+---
+
+### 📊 GitHub Stats
+
+![Dina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dina-Salah-Salam&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dina-Salah-Salam&layout=compact&theme=tokyonight)
