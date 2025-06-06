@@ -2,7 +2,7 @@
 <h3 align="center">Junior Quality Control (QC) Engineer | Manual & Automation Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+ISTQB+Prep;Automation+%26+Manual+Testing+Specialist;1+Year+of+Hands-on+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=QA+Engineer+%7C+ISTQB+Prep; Automation+%26+Manual+Testing+Specialist;1+Year+of+Hands-on+Experience" alt="Typing SVG" />
 </p>
 
 ---
