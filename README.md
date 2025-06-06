@@ -11,7 +11,7 @@
 - 🔬 I’m a **Junior QC Engineer** with **1 year** of experience in software quality assurance.
 - 🧪 Skilled in **Manual Testing**, **Automation using pytest**, and **API Testing**.
 - 📘 Preparing for **ISTQB Foundation Level** certification.
-- 🌍 Based in **Assiut, Egypt**.
+- 🌍 Based in **Egypt**.
 - 💼 Focused on **career growth** in software testing and automation.
 
 ---
@@ -30,8 +30,7 @@
 ---
 
 ### 🌱 Currently Learning
-- 📚 Advanced test automation
-- 🧠 Real-world test case design
+- 📚learning cypress
 - 🎯 **ISTQB FL Certification**
 
 ---
@@ -48,10 +47,10 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/dina-salah-salam/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="dinasalahwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
